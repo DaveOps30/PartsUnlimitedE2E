@@ -1,10 +1,6 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  }
-
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.208.0/containers/dotnet
+{
 	"name": "C# (.NET)",
 	"build": {
 		"dockerfile": "Dockerfile",
