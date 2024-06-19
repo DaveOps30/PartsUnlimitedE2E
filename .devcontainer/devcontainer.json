@@ -33,13 +33,7 @@
 		"codespaces": {
 			// Open files freqently used in demos.
 			"openFiles": [
-			  ".devcontainer/devcontainer.json",
-			  "PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Views/Shared/_Layout.cshtml",
-			  "PartsUnlimited-aspnet45/test/PartsUnlimited.PlaywrightTests/PartsUnlimited-L1AndL2.spec.ts",
-			  "PartsUnlimited-aspnet45/test/PartsUnlimited.UnitTests/app.config",
-			  "PartsUnlimited-aspnet45/env/PartsUnlimitedEnv/Templates/FullEnvironmentSetupMerged.json",
-			  "PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Areas/Admin/Controllers/StoreManagerController.cs",
-			  ".github/workflows/reusable-deploy-azure-web-app.yml"
+			  ".devcontainer/devcontainer.json"
 			]
 		}
 	},
